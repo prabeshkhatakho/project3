@@ -1,17 +1,17 @@
-.App {
-  text-align: center;
+.hero {
+  text-align: left;
 }
 
+
+.Contact {
+  text-align: middle;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+
 
 .App-header {
   background-color: #282c34;
@@ -24,11 +24,19 @@
   color: white;
 }
 
+
+
 .App-link {
-  color: #61dafb;
+  color: #FFFF00;
 }
 
-@keyframes App-logo-spin {
+@media (prefers-reduced-motion: no-preference) {
+  .App-link {
+    animation: App-link-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-link-spin {
   from {
     transform: rotate(0deg);
   }
