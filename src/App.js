@@ -13,10 +13,10 @@ import Services from './components/Services'
 const App = () => {
   return (
     <>
-    <h1>logo</h1>
     <Router>
       <Navbar />
         <Routes>
+          <Route path='/' element ={<Home />}></Route>
           <Route path='/home' element ={<Home />}></Route>
           <Route path='/about' element ={<About />}></Route>
           <Route path='/services' element ={<Services />}></Route>
