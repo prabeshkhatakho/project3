@@ -1,11 +1,11 @@
 import React from 'react'
 
 
-const About=()=> {
+const Resources=()=> {
     return (
 
         <section className='hero'>
-            <h1>welcome to about
+            <h1>welcome to Resources.
             </h1>
         </section>
         
@@ -14,4 +14,4 @@ const About=()=> {
 
 
 
-export default About;
+export default Resources;

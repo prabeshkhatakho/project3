@@ -1,17 +1,9 @@
 import React from 'react'
 
-
-const Home=()=> {
-    return (
-
-        <section className='hero'>
-            <h1>welcome to home.
-            </h1>
-        </section>
-        
-    )
+function home() {
+  return (
+    <div>home</div>
+  )
 }
 
-
-
-export default Home;
+export default home

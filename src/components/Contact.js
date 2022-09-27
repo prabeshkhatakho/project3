@@ -5,7 +5,7 @@ const Contact=()=> {
     return (
 
         <section className='hero'>
-            <h1>welcome to contact.
+            <h1>welcome to Contact.
             </h1>
         </section>
         

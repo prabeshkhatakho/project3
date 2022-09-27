@@ -5,7 +5,7 @@ const Services=()=> {
     return (
 
         <section className='hero'>
-            <h1>welcome to services.
+            <h1>welcome to Services.
             </h1>
         </section>
         

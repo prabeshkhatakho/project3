@@ -1,0 +1,35 @@
+.bpcscore input[type=radio] {
+    border: 0px;
+    width: 20%;
+    height: 2em;
+    top: 10px;
+    
+}
+
+
+
+.title {
+    text-align: center;
+    position: relative;
+    left: 30px;
+    
+}
+.bpcscore h1 {
+    text-align: center;
+}
+
+
+.box h2 {
+    text-align: center;
+    line-height: 1.8;
+    
+
+}
+
+
+.box {
+    padding: 40px;
+    top: 50%;
+}
+
+
