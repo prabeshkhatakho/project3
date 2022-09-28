@@ -1,53 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+
+}
+
+
+
+
 .bpcscore input[type=radio] {
     border: 0px;
     width: 20%;
-    height: 2em;
-    
-    
+    height: 2em; 
 }
 
-
-
-.title {
-    text-align: center;
-    position: relative;
-    left: 30px;
-    
-}
 .bpcscore h1 {
     text-align: center;
-}
-
-
-.box h2 {
-    text-align: center;
-    line-height: 1.8;
+    width: 100%; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 15px;
     
-
 }
-
-
 
 .box {
-    padding: 40px;
-      
+    padding: 40px;  
 }
 
 .line {
     border-bottom: 1px solid purple;
+    padding: 10px;
     
 }
 
-.label {
-    padding: 0 0 0 2rem;
-    position:relative;
+.box input {
+    padding: 10px;
 }
 
-input[type=radio] {
-    left: 0.5rem;
-    top: 0.2rem;
-    
-}
+
 
 
 
